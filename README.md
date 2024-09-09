@@ -1,6 +1,6 @@
 # ABB-IRB1410-DH
-IRB1410 Simulation using the DH Apporach based on the simplified model.
-The model is compared to the vlaues from IRB1410 Studio.
+An accurate simplified model for ABB IRB1410.
+The model uses the DH Apporach based on a simplified yet accurate model and is compared to the actual robot's model in ABB's Robot Studio.
 
 Created as part of:
 Malla, O. and Shanmugavel, M. (2024),
